@@ -1,0 +1,21 @@
+{
+  "name": "Zyro Gaming Club",
+  "short_name": "Zyro",
+  "description": "PS5 Gaming Lounge in Hansi, Haryana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07060f",
+  "theme_color": "#07060f",
+  "icons": [
+    {
+      "src": "/assets/Images/favicon.png",
+      "sizes": "240x240",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/Images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

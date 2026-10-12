@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 120" role="img" aria-label="Zyro Gaming Club">
+  <rect x="4" y="4" width="112" height="112" rx="30" fill="#181512" stroke="#3a3228" stroke-width="2"/>
+  <g fill="none" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M38 40H82" stroke="#f3ece2"/>
+    <path d="M82 40L38 80" stroke="#e8a24a"/>
+    <path d="M38 80H82" stroke="#f3ece2"/>
+  </g>
+  <g transform="translate(150 26)" fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 3H31" stroke="#f3ece2"/>
+    <path d="M31 3L3 37" stroke="#e8a24a"/>
+    <path d="M3 37H31" stroke="#f3ece2"/>
+    <path d="M45 3L61 20L77 3M61 20V37" stroke="#f3ece2"/>
+    <path d="M91 37V3H105A8.5 8.5 0 0 1 105 20H91M103 20L117 37" stroke="#f3ece2"/>
+    <ellipse cx="148" cy="20" rx="15" ry="17" stroke="#f3ece2"/>
+  </g>
+  <text x="153" y="94" font-family="'DM Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="6.5" fill="#a89d8e">GAMING CLUB</text>
+</svg>

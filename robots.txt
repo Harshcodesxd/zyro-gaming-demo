@@ -1,0 +1,6 @@
+# Zyro Gaming Club — Demo / Pitch Stage
+# TODO: Remove "Disallow: /" and allow crawling once the site launches on production domain!
+User-agent: *
+Disallow: /
+
+Sitemap: https://zyrogamingtest.netlify.app/sitemap.xml
